@@ -173,9 +173,6 @@ section li a:hover{
   section h4, section span{
     display: inline;
   }
-  .nav a .symbol{
-    display: none;
-  }
   .carousel-inner{
     height: 50vh;
   }
