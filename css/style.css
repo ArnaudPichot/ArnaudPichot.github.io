@@ -163,9 +163,6 @@ section li a:hover{
   }
 }
 @media (min-width: 768px){
-  .titre span{
-    display: none;
-  }
   section h4, section span, section li a, section .symbol{
     font-family: "aniron", Helvetica, Arial, sans-serif;
     font-size: 2vh;
